@@ -22,7 +22,7 @@ Each assignment is organized in its own directory and includes the necessary sou
 ### Usage
 To run the assignments locally:
 1. Clone this repository:
-   git clone https://github.com/your-username/university-console-assignments.git
+   git clone (https://github.com/Volcann/-University-console-assignments.git)
 2. Navigate to the desired assignment directory:
    cd university-console-assignments/assignment-x
 3. Follow the instructions in the `README.md` file of each assignment to compile and run the code.
