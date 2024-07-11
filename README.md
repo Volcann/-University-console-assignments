@@ -1,4 +1,4 @@
-# University Console Assignments 🎓🖥️
+# My University Assignments 🎓🖥️
 
 Welcome to my repository featuring console-based assignments completed during my university coursework. These assignments encompass a variety of topics and programming concepts that I've mastered throughout my academic journey. Each assignment is meticulously organized in its own directory, complete with source code, detailed documentation, and supplementary files.
 
