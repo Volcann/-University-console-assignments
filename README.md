@@ -1,3 +1,4 @@
+---
 # My University Assignments 🎓🖥️
 
 Welcome to my repository featuring console-based assignments completed during my university coursework. These assignments encompass a variety of topics and programming concepts that I've mastered throughout my academic journey. Each assignment is meticulously organized in its own directory, complete with source code, detailed documentation, and supplementary files.
@@ -38,4 +39,4 @@ To experience these assignments firsthand:
 2. Navigate to the desired assignment directory:
    `cd University-console-assignments/assignment-x`
 3. Follow the instructions outlined in the `README.md` file of each assignment to compile and execute the code seamlessly.
-
+---
