@@ -3,6 +3,7 @@
 Welcome to my repository featuring console-based assignments completed during my university coursework. These assignments encompass a variety of topics and programming concepts that I've mastered throughout my academic journey. Each assignment is meticulously organized in its own directory, complete with source code, detailed documentation, and supplementary files.
 
 - **File 1: Console Games 🎮**
+  
    **Description:**
   - In this assignment, I've developed a captivating console-based Snake and Ladder game. It includes robust functionalities such as starting a new game, continuing from the last session, exploring game rules, and choosing from multiple difficulty levels.
     
@@ -14,6 +15,7 @@ Welcome to my repository featuring console-based assignments completed during my
   - **String Handling:** Harnessing the power of string operations for effective text manipulation and user input management.
  
 - **File 2: Console Project 📁**
+  
    **Description:**
   - This assignment showcases my prowess in developing complex console-based projects, focusing on honing my problem-solving skills and creativity.
     
